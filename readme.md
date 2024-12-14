@@ -21,7 +21,7 @@ This project is a web application that provides insights into movie data using t
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/movie-database-project.git
+git clone https://github.com/DAB111-Group-10/movie-matrix.git
 cd movie-database-project
 ```
 
