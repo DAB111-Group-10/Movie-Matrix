@@ -1,5 +1,3 @@
-Here's a comprehensive README.md file for your Movie Database Project:
-
 
 # IMDb Movie Database Project
 
