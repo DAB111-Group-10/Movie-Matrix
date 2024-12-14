@@ -136,3 +136,8 @@ pandas
 
 ### Data Page
 ![Main Page](Images/data_section.png)
+
+### Database Storage
+![Main Page](Images/database1.png)
+
+![Main Page](Images/database2.png)
